@@ -2,7 +2,7 @@ This is the readme for our clinics project for 310
 And so it begins. One small step for readme, 1 giant step for ClinicsVancouver
 
 TeamName
-CrackSmokingMonkeys
+CodeSmokingMonkeys
 
 Dataset
 http://www.data.gov.bc.ca/dbc/catalogue/detail.page?config=dbc&P110=recorduid:174267&recorduid=174267&title=Walk-in%20Clinics%20in%20BC
