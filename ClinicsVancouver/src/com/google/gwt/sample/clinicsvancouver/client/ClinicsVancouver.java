@@ -84,7 +84,7 @@ public class ClinicsVancouver implements EntryPoint {
 		dialogBox.setWidget(dialogVPanel);
 
 		//maps
-		Maps.loadMapsApi("", "2", false, new Runnable(){
+		Maps.loadMapsApi("AIzaSyC0ySpd_BRZIrz8ts8zhOwRb6YG9vkR000", "2", false, new Runnable(){
 			public void run(){
 				buildUi();
 			}
