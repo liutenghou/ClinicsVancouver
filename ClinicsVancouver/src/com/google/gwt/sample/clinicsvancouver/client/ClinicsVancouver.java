@@ -77,7 +77,7 @@ public class ClinicsVancouver implements EntryPoint {
 		LatLng cawkerCity = LatLng.newInstance(39.509,  -98.434);
 		
 		final MapWidget map = new MapWidget(cawkerCity, 2);
-		map.setSize("100%", "100%");
+		map.setSize("50%", "50%");
 		//Add some controls for the zoom level
 		map.addControl(new LargeMapControl());
 		
